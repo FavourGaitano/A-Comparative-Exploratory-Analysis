@@ -11,10 +11,18 @@ The findings of this study will provide insight into the complex factors that in
 
 
 Research Questions
+
 Q1: What is the relationship between the Unemployment Rate and GDP Per Capita?
+
 Q2: What are the trends in the unemployment rate vs. GDP per capita over the years? 
+
 • In the world, i.e., the whole dataset
- • In specific continents, i.e., Africa, America 
+
+ • In specific continents, i.e., Africa, 
+ America 
+ 
 • In Kenya, Ghana, Togo, Zimbabwe, India, and Nigeria
+
 Q3: Is the unemployment rate high in low-income countries (<$1085) vs. high-income countries (>$13,206)?
+
 Q4: What is the comparison of unemployment rates in African countries vs. American countries over the years?
